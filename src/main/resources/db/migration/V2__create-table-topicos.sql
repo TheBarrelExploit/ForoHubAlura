@@ -1,0 +1,10 @@
+CREATE TABLE IF NOT EXISTS Topic(
+    id BIGINT AUTO_INCREMENT,
+    title VARCHAR(150) NOT NULL UNIQUE,
+    message VARCHAR(400) NOT NULL,
+    cursename VARCHAR(60) NOT NULL,
+    creationdate DATE NOT NULL,
+    idautor BIGINT NOT NULL,
+    PRIMARY KEY(id),
+    FOREIGN KEY(idautor) REFERENCES User(id)
+);
