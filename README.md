@@ -18,11 +18,11 @@ Se utiliza el gestor de maven para realizar la descarga, para esto se utiliza el
 
 # :hammer_and_wrench: Lenguajes,tecnologías e IDE utilizados:
 <div> 
- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"  title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"  title="intellij" alt="intellij" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original-wordmark.svg"  title="insomnia" alt="insomnia" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"  title="MYSQL" alt="MYSQL" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"  title="Spring Boot" alt="Spring Boot" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"  title="intellij" alt="intellij" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original-wordmark.svg"  title="insomnia" alt="insomnia" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"  title="MYSQL" alt="MYSQL" width="50" height="50"/>
 </div>
 
 
@@ -46,12 +46,14 @@ se encuentra las request utilizadas para la prueba del proyecto.
 
 
 # Demo ⚙️
-- Encriptar mensaje 
-![Encriptar](resource/encriptar.gif)
-- Desencriptar mensaje 
-![Desencriptar](resource/desencriptar.gif)
-- Copiar mensaje 
-![Copiar](resource/copiar.gif)
+- Crear Usuario
+![CrearUsuario](resource/crearusuario.gif)
+- Crear JWT
+![CrearJWT](resource/creartoken.gif)
+- Crear Topic
+![CrearTopic](resource/copiar.gif)
+- Crear Solución
+![CrearSolución](resource/copiar.gif)
 
 # Licencia 📄
 Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para mas detalles para detalles
